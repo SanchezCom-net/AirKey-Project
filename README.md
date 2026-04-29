@@ -10,7 +10,7 @@ AirKey — голосовой ввод текста с поддержкой ма
 ▶️Запуск программы (Фоновый режим)  
 У программы нет главного окна, которое открывается сразу. После запуска она работает в фоновом режиме. Ищите значок   программы в системном трее (в правом нижнем углу экрана, рядом с часами).  
 Если значка не видно, нажмите на маленькую стрелочку «Отображать скрытые значки».  
-
+⌨️При первом запуске установлен стандартный хоткей Ctrl + Alt + V. Вам необходимо обязательно изменить его в настройках (даже если вы решите переназначить его на тот же самый), иначе программа может не реагировать на нажатия.  
 
 AirKey — voice-to-text input with macro support. Works completely offline. Automatically copies dictated text to the clipboard. Includes an "as administrator" autostart feature for compatibility with any window. Perfect for fast typing and routine automation.
 
@@ -23,3 +23,4 @@ This is required to ensure the stability of all program features.
 ▶️Launching the Program (Background Mode)  
 The program does not have a main window that pops up upon launch. It runs in the background. Look for the program icon in the System Tray (lower right corner of the screen, next to the clock).  
 If you don't see the icon, click the small arrow to "Show hidden icons."  
+⌨️The default hotkey is Ctrl + Alt + V. You must change it in the settings (even if you re-assign it to the same combination), otherwise, the program may not work correctly.  
